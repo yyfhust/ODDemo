@@ -4,8 +4,7 @@
 
 ##使用说明
 - bochsrc为bochs配置文件
-- pm.inc为所需要的头文件
-- demo2.asm为源文件
+- demo1.asm为源文件
 - a.img是利用bximage生成的软盘镜像
 
 ###bochs使用
